@@ -1,0 +1,45 @@
+.navbarTux {
+    width: 50px;
+}
+
+.navbarWrapper {
+    background-color: #6B9080;
+    position: sticky;
+}
+
+.mainContainer {
+    background: #a4c3b2;
+}
+
+.container {
+    background: #CCE3DE;
+
+    text-align: center;
+    margin-top: 1em;
+    border: solid 1px #F6FFF8;
+}
+
+#code {
+    background-color: #EAF4F4;
+    border: solid 1px #24d6f1;
+    margin: 1em;
+    padding: 1em;
+    text-align: left;
+    position: relative;
+    right: 0%;
+    display: block;
+    resize: none;
+    margin-left: 30vw;
+}
+
+.bottom {
+    text-align: center;
+    background: #CCE3DE;
+    bottom: 0%;
+    position: absolute;
+    width: 100%;
+}
+
+.contentWrapper {
+    padding: 1em;
+}
